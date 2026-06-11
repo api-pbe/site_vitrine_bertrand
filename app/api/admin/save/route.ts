@@ -25,6 +25,7 @@ export async function POST(request: NextRequest) {
 
     const content = JSON.stringify(data, null, 2);
 
+    // Always try GitHub API first
     if (isGitHubConfigured()) {
       await writeGitHubFile(`data/${file}`, content, `Mise à jour ${file}`);
       return NextResponse.json({
@@ -33,9 +34,17 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    const filePath = join(process.cwd(), "data", file);
-    writeFileSync(filePath, content, "utf-8");
-    return NextResponse.json({ success: true, message: "Sauvegardé." });
+    // Fallback: filesystem (local dev only)
+    try {
+      const filePath = join(process.cwd(), "data", file);
+      writeFileSync(filePath, content, "utf-8");
+      return NextResponse.json({ success: true, message: "Sauvegardé." });
+    } catch {
+      return NextResponse.json(
+        { error: "Impossible d'écrire. Configurez GITHUB_TOKEN et GITHUB_REPO dans les variables d'environnement Netlify." },
+        { status: 500 }
+      );
+    }
   } catch (e) {
     return NextResponse.json(
       { error: (e as Error).message || "Erreur lors de la sauvegarde" },

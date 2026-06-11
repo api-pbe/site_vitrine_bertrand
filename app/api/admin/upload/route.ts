@@ -43,12 +43,16 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    const filePath = join(process.cwd(), "public", filename);
-    writeFileSync(filePath, buffer);
-    return NextResponse.json({
-      success: true,
-      message: `${filename} téléversé.`,
-    });
+    try {
+      const filePath = join(process.cwd(), "public", filename);
+      writeFileSync(filePath, buffer);
+      return NextResponse.json({ success: true, message: `${filename} téléversé.` });
+    } catch {
+      return NextResponse.json(
+        { error: "Impossible d'écrire. Configurez GITHUB_TOKEN et GITHUB_REPO dans les variables d'environnement Netlify." },
+        { status: 500 }
+      );
+    }
   } catch (e) {
     return NextResponse.json(
       { error: (e as Error).message || "Erreur lors de l'upload" },

@@ -22,16 +22,25 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Fichier non autorisé" }, { status: 400 });
   }
 
-  try {
-    if (isGitHubConfigured()) {
+  // Always try GitHub API first (latest committed data)
+  if (isGitHubConfigured()) {
+    try {
       const content = await readGitHubFile(`data/${file}`);
       return NextResponse.json(JSON.parse(content));
+    } catch {
+      // fall through to filesystem
     }
+  }
 
+  // Fallback: filesystem (local dev or bundled files)
+  try {
     const filePath = join(process.cwd(), "data", file);
     const raw = readFileSync(filePath, "utf-8");
     return NextResponse.json(JSON.parse(raw));
   } catch {
-    return NextResponse.json({ error: "Fichier introuvable" }, { status: 404 });
+    return NextResponse.json(
+      { error: "Fichier introuvable. Vérifiez que GITHUB_TOKEN et GITHUB_REPO sont configurés dans Netlify." },
+      { status: 500 }
+    );
   }
 }
