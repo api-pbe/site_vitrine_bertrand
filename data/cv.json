@@ -1,12 +1,12 @@
 {
   "formation": [
     {
-      "period": "1996–2000",
-      "description": "Élève de l'École Normale Supérieure de Lyon"
-    },
-    {
       "period": "2003",
       "description": "Doctorat de mathématiques, ENS Lyon"
+    },
+    {
+      "period": "1996–2000",
+      "description": "Élève de l'École Normale Supérieure de Lyon"
     }
   ],
   "positions": [
