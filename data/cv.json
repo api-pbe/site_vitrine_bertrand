@@ -36,7 +36,7 @@
       "description": "Conférencier invité au Congrès International des Mathématiciens (ICM 2026)"
     },
     {
-      "description": "Prix de la Recherche 2015 pour l'article Topology and dynamics of laminations in surfaces of general type (avec C. Dupont), Journal of the American Mathematical Society"
+      "description": "Prix de la Recherche 2015"
     }
   ],
   "projets": [
@@ -70,6 +70,7 @@
   ],
   "enseignement": [
     {
+      "period": "Depuis 2013",
       "description": "Encadrement de 5 thèses de doctorat et 8 mémoires de Master 2"
     },
     {
@@ -79,18 +80,11 @@
     {
       "period": "2013–2016",
       "description": "Maître de conférences associé, ENS Paris"
-    },
-    {
-      "period": "2009–2013, 2017–2019",
-      "description": "Cours de Master 2 : Orsay (2009–2013), Université Paris 6 (2017–2019)"
     }
   ],
   "editorial": [
     {
       "description": "Éditeur de Arnold Mathematical Journal"
-    },
-    {
-      "description": "Rapporteur pour : Acta Math., Invent. Math., Publ. IHES, Geom. Funct. Anal., Ann. of Math., Duke Math. J., J. Amer. Math. Soc., et autres revues internationales"
     }
   ]
 }
