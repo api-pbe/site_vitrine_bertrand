@@ -1,8 +1,16 @@
 [
   {
+    "year": 2026,
+    "title": "Isoperiodic meromorphic forms: two simple poles",
+    "authors": "G. Calsamiglia, B. Deroin",
+    "journal": "Groups Geom. Dyn. 20, no. 1, pp. 107–168",
+    "arxiv": "https://arxiv.org/abs/2109.01796",
+    "pdf": null
+  },
+  {
     "year": 2025,
     "title": "Isoperiodic meromorphic forms with at least three simple poles",
-    "authors": "L. Arzhakova, G. Calsamiglia, Bertrand Deroin",
+    "authors": "L. Arzhakova, G. Calsamiglia, B. Deroin",
     "journal": "Prépublication",
     "arxiv": "https://arxiv.org/abs/2508.00099",
     "pdf": null
@@ -10,7 +18,7 @@
   {
     "year": 2025,
     "title": "The dimension of harmonic currents on foliated complex surfaces",
-    "authors": "Bertrand Deroin, C. Dupont, V. Kleptsyn",
+    "authors": "B. Deroin, C. Dupont, V. Kleptsyn",
     "journal": "Prépublication",
     "arxiv": "https://arxiv.org/abs/2503.09152",
     "pdf": null
@@ -18,23 +26,31 @@
   {
     "year": 2025,
     "title": "Uniformizable foliated projective structures along singular foliations",
-    "authors": "Bertrand Deroin, A. Guillot",
-    "journal": "Math. Z. 311, 85 (2025)",
+    "authors": "B. Deroin, A. Guillot",
+    "journal": "Math. Zeit. 311, 85 ",
     "arxiv": "https://arxiv.org/abs/2501.04626",
     "pdf": null
   },
   {
     "year": 2024,
     "title": "Stabilité structurelle du feuilletage de Jouanolou en degré deux",
-    "authors": "A. Alvarez, Bertrand Deroin",
-    "journal": "Publ. Math. IHES 141, 191–247 (2024)",
+    "authors": "A. Alvarez, B. Deroin",
+    "journal": "Publ. Math. IHES 141, 191–247 ",
     "arxiv": "https://arxiv.org/abs/2303.09313",
+    "pdf": null
+  },
+  {
+    "year": 2024,
+    "title": "Convexity of complements of limit sets for holomorphic foliations on surfaces",
+    "authors": "B. Deroin, C. Dupont, V. Kleptsyn",
+    "journal": "Math. Ann. 388, 2727–2753",
+    "arxiv": "https://arxiv.org/abs/2202.01007",
     "pdf": null
   },
   {
     "year": 2023,
     "title": "Non-linear bi-algebraic curves and surfaces in moduli spaces of Abelian differentials",
-    "authors": "Bertrand Deroin, C. Matheus",
+    "authors": "B. Deroin, C. Matheus",
     "journal": "C. R. Math. Acad. Sci. Paris",
     "arxiv": "https://arxiv.org/abs/2303.00642",
     "pdf": null
@@ -42,119 +58,119 @@
   {
     "year": 2023,
     "title": "A transfer principle: from periods to isoperiodic foliations",
-    "authors": "G. Calsamiglia, Bertrand Deroin, S. Francaviglia",
-    "journal": "Geom. Funct. Anal. 33 (2023), 57–169",
+    "authors": "G. Calsamiglia, B. Deroin, S. Francaviglia",
+    "journal": "Geom. Funct. Anal. 33, 57–169",
     "arxiv": "https://arxiv.org/abs/1511.07635",
     "pdf": null
   },
   {
     "year": 2023,
     "title": "Foliated affine and projective structures",
-    "authors": "Bertrand Deroin, A. Guillot",
-    "journal": "Compos. Math. 159 (2023), 1153–1187",
+    "authors": "B. Deroin, A. Guillot",
+    "journal": "Compos. Math. 159, 1153–1187",
     "arxiv": "https://arxiv.org/abs/2104.04878",
     "pdf": null
   },
   {
     "year": 2022,
     "title": "Toledo invariants of topological quantum field theories",
-    "authors": "Bertrand Deroin, J. Marché",
+    "authors": "B. Deroin, J. Marché",
     "journal": "Prépublication",
     "arxiv": "https://arxiv.org/abs/2207.09952",
     "pdf": null
   },
   {
-    "year": 2022,
-    "title": "Convexity of complements of limit sets for holomorphic foliations on surfaces",
-    "authors": "Bertrand Deroin, C. Dupont, V. Kleptsyn",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/2202.01007",
-    "pdf": null
-  },
-  {
-    "year": 2021,
-    "title": "Isoperiodic meromorphic forms: two simple poles",
-    "authors": "G. Calsamiglia, Bertrand Deroin",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/2109.01796",
-    "pdf": null
-  },
-  {
     "year": 2020,
     "title": "Non left-orderability of lattices in higher rank semi-simple Lie groups",
-    "authors": "Bertrand Deroin, S. Hurtado",
+    "authors": "B. Deroin, S. Hurtado",
     "journal": "Prépublication",
     "arxiv": "https://arxiv.org/abs/2008.10687",
     "pdf": null
   },
   {
+    "year": 2020,
+    "title": "Locally discrete groups of analytic diffeomorphisms of the circle",
+    "authors": "B. Deroin",
+    "journal": "J. Topol., Volume 13, Issue 3, Pages 1216-1229",
+    "arxiv": "https://arxiv.org/abs/1811.10298",
+    "pdf": null
+  },
+  {
+    "year": 2020,
+    "title": "Salem numbers and the spectrum of hyperbolic surfaces",
+    "authors": "E. Breuillard, B. Deroin",
+    "journal": "Int. Math. Res. Not., Vol. 2020, Issue 22, p. 8234–8250",
+    "arxiv": "https://arxiv.org/abs/1612.05935",
+    "pdf": null
+  },
+  {
     "year": 2019,
     "title": "Super-maximal representations from fundamental groups of punctured surfaces to PSL(2,R)",
-    "authors": "Bertrand Deroin, N. Tholozan",
-    "journal": "Ann. Sci. ENS 52 (2019), 1305–1329",
+    "authors": "B. Deroin, N. Tholozan",
+    "journal": "Ann. Sci. ENS 52, 1305–1329",
     "arxiv": "https://arxiv.org/abs/1604.00330",
     "pdf": null
   },
   {
-    "year": 2018,
-    "title": "Locally discrete groups of analytic diffeomorphisms of the circle",
-    "authors": "Bertrand Deroin",
-    "journal": "J. Topol.",
-    "arxiv": "https://arxiv.org/abs/1811.10298",
+    "year": 2019,
+    "title": "Lyapunov exponents of the Brownian motion on a Kähler manifold",
+    "authors": "J. Daniel, B. Deroin",
+    "journal": "Math. Res. Lett. 26(2): 501-536",
+    "arxiv": "https://arxiv.org/abs/1702.02551",
+    "pdf": null
+  },
+  {
+    "year": 2019,
+    "title": "The Riemann-Hilbert mapping for sl₂-systems over genus two curves",
+    "authors": "G. Calsamiglia, B. Deroin, V. Heu, F. Loray",
+    "journal": "Bull. Soc. Math. France, Tome 147, no. 1, pp. 159-195",
+    "arxiv": "https://arxiv.org/abs/1602.02273",
     "pdf": null
   },
   {
     "year": 2018,
     "title": "On the ergodic theory of free group actions by real-analytic circle diffeomorphisms",
-    "authors": "Bertrand Deroin, V. Kleptsyn, A. Navas",
-    "journal": "Invent. Math. 212 (2018), 731–779",
+    "authors": "B. Deroin, V. Kleptsyn, A. Navas",
+    "journal": "Invent. Math. 212, 731–779",
     "arxiv": "https://arxiv.org/abs/1312.4133",
     "pdf": null
   },
   {
     "year": 2017,
     "title": "Complex projective structures: Lyapunov exponent, degree, and harmonic measure",
-    "authors": "Bertrand Deroin, R. Dujardin",
-    "journal": "Duke Math. J. 166 (2017), 2643–2695",
+    "authors": "B. Deroin, R. Dujardin",
+    "journal": "Duke Math. J. 166, 2643–2695",
     "arxiv": "https://arxiv.org/abs/1308.0541",
-    "pdf": null
-  },
-  {
-    "year": 2017,
-    "title": "Lyapunov exponents of the Brownian motion on a Kähler manifold",
-    "authors": "J. Daniel, Bertrand Deroin",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/1702.02551",
     "pdf": null
   },
   {
     "year": 2016,
     "title": "Topology and dynamics of laminations in surfaces of general type",
-    "authors": "Bertrand Deroin, C. Dupont",
+    "authors": "B. Deroin, C. Dupont",
     "journal": "J. Amer. Math. Soc. 29 (2016), 495–535",
     "arxiv": "https://arxiv.org/abs/1203.6244",
     "pdf": null
   },
   {
     "year": 2016,
-    "title": "Salem numbers and the spectrum of hyperbolic surfaces",
-    "authors": "E. Breuillard, Bertrand Deroin",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/1612.05935",
+    "title": "Dominating surface group representations by Fuchsian ones",
+    "authors": "B. Deroin, N. Tholozan",
+    "journal": "Int. Math. Res. Not., Vol. 2016, Issue 13, pp. 4145–4166",
+    "arxiv": "https://arxiv.org/abs/1311.2919",
     "pdf": null
   },
   {
-    "year": 2016,
-    "title": "The Riemann-Hilbert mapping for sl₂-systems over genus two curves",
-    "authors": "G. Calsamiglia, Bertrand Deroin, V. Heu, F. Loray",
-    "journal": "Bull. Soc. Math. France",
-    "arxiv": "https://arxiv.org/abs/1602.02273",
+    "year": 2015,
+    "title": "Lyapunov exponents for surface group representations",
+    "authors": "B. Deroin, R. Dujardin",
+    "journal": "Comm. Math. Phys., Vol. 340, pages 433–469",
+    "arxiv": "https://arxiv.org/abs/1305.0049",
     "pdf": null
   },
   {
     "year": 2014,
     "title": "Groups, Orders, and Dynamics",
-    "authors": "Bertrand Deroin, A. Navas, C. Rivas",
+    "authors": "B. Deroin, A. Navas, C. Rivas",
     "journal": "Prépublication (monographie)",
     "arxiv": "https://arxiv.org/abs/1408.5805",
     "pdf": null
@@ -162,129 +178,121 @@
   {
     "year": 2014,
     "title": "The oriented graph of multi-graftings in the Fuchsian case",
-    "authors": "G. Calsamiglia, Bertrand Deroin, S. Francaviglia",
-    "journal": "Publ. Mat. 58 (2014), 31–46",
+    "authors": "G. Calsamiglia, B. Deroin, S. Francaviglia",
+    "journal": "Publ. Mat. 58, pp. 31–46",
     "arxiv": "https://arxiv.org/abs/1205.6069",
     "pdf": null
   },
   {
     "year": 2014,
     "title": "Branched projective structures with quasi-Fuchsian holonomy",
-    "authors": "G. Calsamiglia, Bertrand Deroin, S. Francaviglia",
-    "journal": "Geom. Topol. 18 (2014), 379–446",
+    "authors": "G. Calsamiglia, B. Deroin, S. Francaviglia",
+    "journal": "Geom. Topol. 18, 379–446",
     "arxiv": "https://arxiv.org/abs/1203.6038",
     "pdf": null
   },
   {
     "year": 2013,
-    "title": "Dominating surface group representations by Fuchsian ones",
-    "authors": "Bertrand Deroin, N. Tholozan",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/1311.2919",
-    "pdf": null
-  },
-  {
-    "year": 2013,
-    "title": "Lyapunov exponents for surface group representations",
-    "authors": "Bertrand Deroin, R. Dujardin",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/1305.0049",
-    "pdf": null
-  },
-  {
-    "year": 2013,
     "title": "Singular sets of holonomy maps for algebraic foliations",
-    "authors": "G. Calsamiglia, Bertrand Deroin, S. Frankel, A. Guillot",
-    "journal": "J. Eur. Math. Soc. 15 (2013), 1067–1099",
+    "authors": "G. Calsamiglia, B. Deroin, S. Frankel, A. Guillot",
+    "journal": "J. Eur. Math. Soc. 15, pp. 1067–1099",
     "arxiv": "https://arxiv.org/abs/1005.5094",
     "pdf": null
   },
   {
     "year": 2013,
     "title": "Symmetric random walks on Homeo+(R)",
-    "authors": "Bertrand Deroin, V. Kleptsyn, A. Navas, K. Parwani",
-    "journal": "Ann. Probab. 41 (2013), 2066–2089",
+    "authors": "B. Deroin, V. Kleptsyn, A. Navas, K. Parwani",
+    "journal": "Ann. Probab. 41, pp. 2066–2089",
     "arxiv": "https://arxiv.org/abs/1103.1650",
+    "pdf": null
+  },
+  {
+    "year": 2013,
+    "title": "The Poisson boundary of a locally discrete group of diffeomorphisms of the circle",
+    "authors": "B. Deroin",
+    "journal": " Erg. Th. Dyn. Syst., Vol. 33 , Issue 2 , pp. 400-415",
+    "arxiv": "https://arxiv.org/abs/1103.0998",
+    "pdf": null
+  },
+  {
+    "year": 2013,
+    "title": "The group of almost-periodic homeomorphisms of the real line",
+    "authors": "B. Deroin",
+    "journal": "L’Enseignement Mathématique (2) 59, 183–194",
+    "arxiv": "https://arxiv.org/abs/1102.4524",
     "pdf": null
   },
   {
     "year": 2012,
     "title": "Random walks, Kleinian groups, and bifurcation currents",
-    "authors": "Bertrand Deroin, R. Dujardin",
-    "journal": "Invent. Math. 190 (2012), 57–118",
+    "authors": "B. Deroin, R. Dujardin",
+    "journal": "Invent. Math. 190, pp. 57–118",
     "arxiv": "https://arxiv.org/abs/1011.1365",
     "pdf": null
   },
   {
     "year": 2011,
-    "title": "The Poisson boundary of a locally discrete group of diffeomorphisms of the circle",
-    "authors": "Bertrand Deroin",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/1103.0998",
-    "pdf": null
-  },
-  {
-    "year": 2011,
     "title": "Feuilletage de Hirsch, mesure harmonique, et g-mesure",
-    "authors": "Bertrand Deroin, C. Vernicos",
-    "journal": "Publ. Mat. Uruguay 12 (2011), 79–85",
+    "authors": "B. Deroin, C. Vernicos",
+    "journal": "Publ. Mat. Uruguay 12, 79–85",
     "arxiv": "https://arxiv.org/abs/1103.0177",
     "pdf": null
   },
   {
-    "year": 2011,
-    "title": "The group of almost-periodic homeomorphisms of the real line",
-    "authors": "Bertrand Deroin",
-    "journal": "Prépublication",
-    "arxiv": "https://arxiv.org/abs/1102.4524",
-    "pdf": null
-  },
-  {
-    "year": 2008,
+    "year": 2009,
     "title": "On the question of ergodicity for minimal group actions on the circle",
-    "authors": "Bertrand Deroin, V. Kleptsyn, A. Navas",
-    "journal": "Prépublication",
+    "authors": "B. Deroin, V. Kleptsyn, A. Navas",
+    "journal": "Mosc. Math. J., Vol. 9, No. 2, pp 263–303",
     "arxiv": "https://arxiv.org/abs/0806.1974",
     "pdf": null
   },
   {
     "year": 2008,
     "title": "Laminations dans les espaces projectifs complexes",
-    "authors": "Bertrand Deroin",
-    "journal": "J. Inst. Math. Jussieu 7 (2008), 67–91",
+    "authors": "B. Deroin",
+    "journal": "J. Inst. Math. Jussieu 7, pp. 67–91",
     "arxiv": "https://arxiv.org/abs/math/0410376",
     "pdf": null
   },
   {
     "year": 2007,
     "title": "Random conformal dynamical systems",
-    "authors": "Bertrand Deroin, V. Kleptsyn",
-    "journal": "Geom. Funct. Anal. 17 (2007), 1043–1105",
+    "authors": "B. Deroin, V. Kleptsyn",
+    "journal": "Geom. Funct. Anal. 17, pp. 1043–1105",
     "arxiv": "https://arxiv.org/abs/math/0506204",
     "pdf": null
   },
   {
     "year": 2007,
     "title": "Sur la dynamique unidimensionnelle en régularité intermédiaire",
-    "authors": "Bertrand Deroin, V. Kleptsyn, A. Navas",
-    "journal": "Acta Math. 199 (2007), 199–262",
+    "authors": "B. Deroin, V. Kleptsyn, A. Navas",
+    "journal": "Acta Math. 199, pp. 199–262",
     "arxiv": "https://arxiv.org/abs/math/0506063",
     "pdf": null
   },
   {
     "year": 2007,
     "title": "Non rigidity of hyperbolic laminations",
-    "authors": "Bertrand Deroin",
-    "journal": "Proc. Amer. Math. Soc. 135 (2007), 495–512",
+    "authors": "B. Deroin",
+    "journal": "Proc. Amer. Math. Soc. 135, pp. 495–512",
     "arxiv": "https://arxiv.org/abs/math/0409221",
     "pdf": null
   },
   {
-    "year": 2004,
-    "title": "Surfaces branchées et solénoïdes ε-holomorphes",
-    "authors": "Bertrand Deroin",
-    "journal": "Prépublication",
+    "year": 2006,
+    "title": "Examples of almost-holomorphic and totally real laminations in complex surfaces",
+    "authors": "B. Deroin",
+    "journal": "Topology, Volume 45, no. 3, p. 495",
     "arxiv": "https://arxiv.org/abs/math/0411593",
+    "pdf": null
+  },
+  {
+    "year": 2005,
+    "title": "Hypersurfaces Levi-plates immergées dans les surfaces complexes de courbure positive",
+    "authors": "B. Deroin",
+    "journal": "Ann. Sc. Éc. Norm. Sup., Série 4, Tome 38  no. 1, pp. 57-75",
+    "arxiv": null,
     "pdf": null
   }
 ]
