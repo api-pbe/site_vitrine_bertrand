@@ -1,0 +1,96 @@
+{
+  "formation": [
+    {
+      "period": "1996–2000",
+      "description": "Élève de l'École Normale Supérieure de Lyon"
+    },
+    {
+      "period": "2003",
+      "description": "Doctorat de mathématiques, ENS Lyon"
+    },
+    {
+      "period": "2004–2006",
+      "description": "Institut Postdoctoral Européen (IHES Paris / MPI Leipzig / CRM Barcelone)"
+    }
+  ],
+  "positions": [
+    {
+      "period": "Depuis 2016",
+      "description": "Directeur de recherche CNRS (1ère classe depuis 2023), AGM, CY Cergy Paris Université"
+    },
+    {
+      "period": "2019–2020",
+      "description": "Délégation à l'UMI Jean-Christophe Yoccoz"
+    },
+    {
+      "period": "2013–2016",
+      "description": "Chargé de recherche CNRS, École Normale Supérieure (Paris)"
+    },
+    {
+      "period": "2007–2013",
+      "description": "Chargé de recherche CNRS, Université Paris-Sud (Orsay)"
+    }
+  ],
+  "distinctions": [
+    {
+      "description": "Conférencier invité au Congrès International des Mathématiciens (ICM 2026)"
+    },
+    {
+      "description": "Prix de la Recherche 2015 pour l'article Topology and dynamics of laminations in surfaces of general type (avec C. Dupont), Journal of the American Mathematical Society"
+    }
+  ],
+  "projets": [
+    {
+      "description": "Projet Émergence, Initiative d'Excellence CYU : Isofol"
+    },
+    {
+      "description": "Projets ANR : ISOMODYN, ETTT, COMPLEXE, Lambda"
+    },
+    {
+      "description": "Projet MathAmSud : CGHF"
+    }
+  ],
+  "responsabilites": [
+    {
+      "period": "2022–2025",
+      "description": "Directeur du laboratoire AGM (UMR 8088)"
+    },
+    {
+      "period": "2019–2020",
+      "description": "Membre du conseil scientifique de l'INSMI (CNRS)"
+    },
+    {
+      "period": "2018–2022",
+      "description": "Membre du comité exécutif du Labex MME-DII"
+    },
+    {
+      "period": "2010–2014",
+      "description": "Membre du Comité National du CNRS, section 41"
+    }
+  ],
+  "enseignement": [
+    {
+      "description": "Encadrement de 5 thèses de doctorat et 8 mémoires de Master 2"
+    },
+    {
+      "period": "Depuis 2022",
+      "description": "Professeur chargé de cours, École Polytechnique"
+    },
+    {
+      "period": "2013–2016",
+      "description": "Maître de conférences associé, ENS Paris"
+    },
+    {
+      "period": "2009–2013, 2017–2019",
+      "description": "Cours de Master 2 : Orsay (2009–2013), Université Paris 6 (2017–2019)"
+    }
+  ],
+  "editorial": [
+    {
+      "description": "Éditeur de Arnold Mathematical Journal"
+    },
+    {
+      "description": "Rapporteur pour : Acta Math., Invent. Math., Publ. IHES, Geom. Funct. Anal., Ann. of Math., Duke Math. J., J. Amer. Math. Soc., et autres revues internationales"
+    }
+  ]
+}
