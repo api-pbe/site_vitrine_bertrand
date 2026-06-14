@@ -29,12 +29,9 @@ export default function PublicationsPage() {
   return (
     <div className="pt-24 pb-16">
       <div className="max-w-3xl mx-auto px-6">
-        <h1 className="font-serif text-3xl sm:text-4xl font-bold mb-2">
+        <h1 className="font-serif text-3xl sm:text-4xl font-bold mb-12">
           Publications
         </h1>
-        <p className="text-dark/50 text-sm mb-12">
-          Sélection d&apos;articles de recherche
-        </p>
 
         <div>
           {sorted.map((pub, i) => (
